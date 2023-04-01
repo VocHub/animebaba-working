@@ -6,8 +6,8 @@
       </v-card-title>
       <v-card-text>
         <p>
-          amvstrm is an anime streaming site website build with Nuxt.js 2 SPA and
-          amvstrm's API with i18n and bookmarker to bookmarked anime to
+          animebaba is an anime streaming site website build with Nuxt.js 2 SPA and
+          animebaba's API with i18n and bookmarker to bookmarked anime to
           localstorage. It is fast and easy to deploy to the web.
           <br />
           <span>rip animixplay! 😭</span>
@@ -29,7 +29,7 @@
           <li>i18n switcher (ENG/KHMER)</li>
           <li>Fast and simple to deploy</li>
         </ul>
-        <h2 class="my-2">Official amvstrm's website</h2>
+        <h2 class="my-2">Official animebaba's website</h2>
         <p>This is our official website and beware any of those fake websites. We do not put ads and make money from it.</p>
         <ul>
           <li>amvstr.ml</li>
@@ -79,7 +79,7 @@
             Coinbase (nsDev/NYT92)
           </a>
           <br />
-          <a href="https://l.aslnk.ml/amvstrm.donate.liberapay"> Liberapay (amvstrm) </a>
+          <a href="https://l.aslnk.ml/amvstrm.donate.liberapay"> Liberapay (animebaba) </a>
         </p>
         <p>
           {{ $t('donation_desc') }}
@@ -117,19 +117,19 @@ export default {
         { name: 'og:image:width', content: '1200' },
         { name: 'og:image:height', content: '630' },
         { name: 'og:image:type', content: 'image/png' },
-        { name: 'og:image:alt', content: 'amvstrm' },
+        { name: 'og:image:alt', content: 'animebaba' },
         { name: 'og:type', content: 'website' },
-        { name: 'og:title', content: 'About | amvstrm' },
+        { name: 'og:title', content: 'About | animebaba' },
         {
           name: 'og:description',
           content: 'About amvstr.ml',
         },
         { name: 'og:url', content: 'https://amvstrm.com/about' },
-        { name: 'og:site_name', content: 'About | amvstrm' },
+        { name: 'og:site_name', content: 'About | animebaba' },
         { name: 'og:locale', content: 'en_US' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: 'https://amvstr.ml/about' },
-        { name: 'twitter:title', content: 'About | amvstrm' },
+        { name: 'twitter:title', content: 'About | animebaba' },
         {
           name: 'twitter:description',
           content: 'About amvstr.ml',
