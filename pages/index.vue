@@ -160,13 +160,13 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'amvstrm, also known as Anime/Movie/Video Streaming is an open-source website that lets you watch anime for free without being disturbed by pop-up adverts.',
+            'animebaba, also known as Anime/Movie/Video Streaming is an open-source website that lets you watch anime for free without being disturbed by pop-up adverts.',
         },
         {
           hid: 'keywords',
           name: 'keywords',
           content:
-            'anime, amvstreaming, free anime, amvstrm, amvstr, amvstrm.ml, amvstrm anime',
+            'anime, amvstreaming, free anime, animebaba, amvstr, amvstrm.ml, animebaba anime',
         },
         // og
         {
@@ -182,13 +182,13 @@ export default {
         {
           hid: 'og:title',
           property: 'og:title',
-          content: 'Home | amvstrm',
+          content: 'Home | AnimeBaba',
         },
         {
           hid: 'og:description',
           property: 'og:description',
           content:
-            'amvstrm, also known as Anime/Movie/Video Streaming is an open-source website that lets you watch anime for free without being disturbed by pop-up adverts.',
+            'animebaba, also known as Anime/Movie/Video Streaming is an open-source website that lets you watch anime for free without being disturbed by pop-up adverts.',
         },
         {
           hid: 'og:image',
@@ -209,13 +209,13 @@ export default {
         {
           hid: 'twitter:title',
           name: 'twitter:title',
-          content: 'Home | amvstrm',
+          content: 'Home | AnimeBaba',
         },
         {
           hid: 'twitter:description',
           name: 'twitter:description',
           content:
-            'amvstrm, also known as Anime/Movie/Video Streaming is an open-source website that lets you watch anime for free without being disturbed by pop-up adverts.',
+            'animebaba, also known as Anime/Movie/Video Streaming is an open-source website that lets you watch anime for free without being disturbed by pop-up adverts.',
         },
         {
           hid: 'twitter:image',
